@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "783349326005",
+    "firebase_url": "https://mincamacae-default-rtdb.firebaseio.com",
+    "project_id": "mincamacae",
+    "storage_bucket": "mincamacae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783349326005:android:255249343f939335fedefc",
+        "android_client_info": {
+          "package_name": "com.example.minc_macae"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDht16TF4SdVQT4fiw3zo51St827zT3kqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
